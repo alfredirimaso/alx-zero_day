@@ -1,1 +1,5 @@
-echo Alx school is so cool
+<<<<<<< HEAD
+echo Alx school 
+=======
+echo ALX school
+>>>>>>> update_script
